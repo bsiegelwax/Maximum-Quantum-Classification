@@ -1,2 +1,3 @@
 # Maximum-Quantum-Classification
-https://link.medium.com/MJccnosaCbb
+Read about this attempt to push the limits of the IBM cloud quantum computing simulator at https://link.medium.com/MJccnosaCbb.
+
